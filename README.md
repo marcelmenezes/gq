@@ -8,10 +8,11 @@ GROQ_API_KEY=[SUA CHAVE API AQUI]
 
 Comandos rodar para executar abaixo.  
 Recomendo a criação de um environment (como abaixo) para não gerar conflito com bibliotecas que possua localemente.  
-Requisitos: Python 3.3+
-```
-pip install 
+**Requisitos: Python 3.3+**  
+Rodar os comandos abaixo na raiz do projeto:
+``` 
 python -m venv env1
 env1\Scripts\activate
 pip install -r requirements.txt
+python teste.py
 ```
