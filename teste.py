@@ -13,7 +13,7 @@ chat_completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "are you multimodal?",
+            "content": "What is 2+2?",
         }
     ],
     model="llama3-70b-8192",
