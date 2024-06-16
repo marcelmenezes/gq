@@ -16,5 +16,5 @@ env1\Scripts\activate
 pip install -r requirements.txt
 python teste.py
 ```
-Expected output:
+Expected output:  
 The result of the question "What is 2+2?" = 4
